@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinosbarriere-dinard.com/
+Sitemap: https://casinosbarriere-dinard.com/sitemap.xml

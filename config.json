@@ -1,0 +1,205 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#1B1B1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B1B1A",
+            "welcome-bonus-bg": "#1B1B1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#111111",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#262726",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B78E2E",
+            "yellow": "#b82e2e",
+            "yellow-button": "#B78E2E",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B1B1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#747476",
+            "pay-back": "#deeadf",
+            "providers-back": "#1B1B1A",
+            "faq-label": "#1B1B1A",
+            "bg-footer": "#1B1B1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#b82e2e",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Barrière Dinard",
+            "title": "Casino Barrière Dinard: machines à sous, roulette, blackjack, restaurant et soirées",
+            "description": "Découvrez le Casino Barrière Dinard: machines à sous modernes, tables classiques, jeux électroniques, bar et brasserie dans une ambiance balnéaire. Informations sur l’accès, les horaires, la fidélité, les promotions et les animations. Idéal pour une soirée élégante, un week‑end et des émotions mémorables.",
+            "canonical": "casinosbarriere-dinard.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1236",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinosbarriere-dinard.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1237",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1238"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1239",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Dinard Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": " Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino Barrière Dinard — jeux, restaurant, bar et événements vue mer",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1240",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1241",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Vue mer panoramique depuis les salons",
+                "Machines à sous modernes, jackpots progressifs",
+                "Roulette et blackjack, classiques incontournables",
+                "Jeux électroniques pour rythme rapide",
+                "Espaces détente confortables près des jeux",
+                "Restaurant et bar pour soirée complète",
+                "Animations et spectacles, ambiance festive"
+            ],
+            "advantagesAfterText": "Le Casino Barrière Dinard séduit par l’alliance entre emplacement d’exception, décor élégant et offre de jeux variée. On y vit une expérience complète: jouer, dîner, boire un verre et profiter de l’ambiance au même endroit. L’amplitude horaire facilite les visites spontanées comme les sorties nocturnes.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino Barrière Dinard App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1243",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Barrière Dinard App",
+            "mobileGooglePlayImageTitle": "Casino Barrière Dinard App",
+            "mobileIosImageTitle": "Casino Barrière Dinard App"
+        },
+        "games": {
+            "playNowText": " Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino Barrière Dinard",
+                "description1": "Le casino se distingue par une vue mer et une expérience complète avec restaurant et bar. À noter: montants et mécaniques promotionnelles varient selon les offres en cours et les machines.\n",
+                "items": [
+                    "Jackpots jusqu’à 30 000 €.",
+                    "Gains express jusqu’à 5 000 €.",
+                    "Super cagnottes jusqu’à 50 000 €."
+                ],
+                "description2": "Le Casino Barrière Dinard offre une expérience où le jeu se marie à l’esprit balnéaire. L’ambiance se construit autour de la lumière, de la musique et des panoramas. Les espaces de jeu sont pensés pour être accessibles aux débutants tout en restant confortables pour les habitués. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1242",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "On y trouve un équilibre entre énergie et détente, chacun jouant à son rythme. Les formats de divertissement conviennent autant à une visite courte qu’à une soirée prolongée. Les pauses se font naturellement au bar ou au restaurant, sans quitter l’établissement. Le personnel accompagne volontiers pour l’orientation et les questions de règles. L’année est ponctuée d’animations et de rendez‑vous saisonniers qui renouvellent l’atmosphère. Un programme de fidélité apporte une dimension plus exclusive et valorise les retours. C’est une adresse choisie pour vivre un moment complet, au‑delà du simple jeu.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Une soirée au bord de l’eau: style et expérience au Casino Barrière Dinard",
+                "description": "<p>\nLe Casino Barrière Dinard se vit comme une scène élégante où l’émotion compte autant que le jeu et la vue. Le décor recherche la légèreté: espace, luminosité et sensation d’ouverture. L’atmosphère reste festive mais maîtrisée, pensée pour le confort et l’esthétique. C’est un style apprécié par celles et ceux qui veulent une sortie chic sans excès.\n\n<\/p>\n<br>\n\n\n<p>\nLe rythme de visite est pratique, car le casino fonctionne généralement tous les jours et permet d’organiser une venue en journée comme en soirée. En semaine, beaucoup choisissent un format «après promenade»: quelques parties puis un dîner. Le week‑end, l’ambiance gagne en intensité et la soirée peut s’étirer naturellement. Même lorsque l’affluence augmente, l’organisation des espaces préserve une impression de confort.\n\n<\/p>\n<br>\n<p>\nLa partie bar accompagne l’expérience: on fait une pause, on échange, on reste dans le même univers. Le bar joue le rôle de point de respiration avec boissons, grignotages et un panorama qui devient un élément du moment. La restauration complète l’ensemble et transforme la venue en véritable sortie. Pour beaucoup, c’est la clé: on ne vient pas seulement jouer, on vient vivre un moment.\n\n<\/p>\n<br>\n<p>\nPour prolonger le plaisir, l’hébergement à proximité s’impose comme une option logique afin d’éviter la contrainte du retour. L’association «casino + hôtel» fonctionne très bien pour les escapades romantiques et les week‑ends. On peut ainsi combiner jeux, détente et découverte de l’environnement balnéaire sans se presser. Le résultat est un scénario où le jeu s’intègre à un séjour plus large.\n\n<\/p>\n<br>\n<p>\nLa programmation événementielle entretient l’intérêt tout au long de l’année: soirées thématiques, rendez‑vous musicaux, temps forts saisonniers et dates spéciales. Le casino devient alors un lieu de vie, pas seulement une salle de jeu. Les offres promotionnelles et la logique de privilèges renforcent l’envie de revenir. Le programme de fidélité apporte généralement des avantages personnalisés et une sensation d’exclusivité.\n\n<\/p>\n<br>\n<p>\nAu final, le Casino Barrière Dinard se distingue par la combinaison du cadre, du service et des multiples raisons d’y passer. On peut y faire une halte rapide ou construire une soirée complète avec dîner et animation. Le lieu encourage un tempo détendu tout en gardant l’énergie recherchée. Cette flexibilité explique son attrait pour des sorties «qui comptent».\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAccueil, paiements et gains: fonctionnement pratique\n<\/h3>\n\n<p>\nLe personnel du Casino Barrière Dinard fonctionne généralement dans une logique d’accompagnement: accueil, orientation et réponses rapides dans les salons. La courtoisie et l’efficacité deviennent essentielles lors des périodes d’affluence, quand les demandes se multiplient. Les croupiers et équipes de salle expliquent en général les règles de base et indiquent où se trouvent les différents formats de jeux. Cela améliore l’expérience et facilite la première visite.\n\n<\/p>\n<br>\n\n\n<p>\nCôté langues, le français est la référence, et l’anglais est souvent compris à un niveau de service pendant les périodes touristiques. Même sans vocabulaire spécifique, il est possible de clarifier les points importants avec des formulations simples. Les procédures sensibles (accès, contrôle d’identité, paiement des gains) sont habituellement expliquées de façon très claire. C’est une composante du service et de la politique de sécurité.\n\n<\/p>\n<br>\n<p>\nLa monnaie de référence est l’euro, avec des moyens de paiement courants pensés pour la fluidité. Dans ce type d’établissement, cartes bancaires et espèces sont généralement disponibles, et certaines fiches touristiques mentionnent aussi les chèques‑vacances. Pour le bar et le restaurant, le paiement par carte est souvent le plus simple, tandis que le jeu peut nécessiter de gérer des espèces ou des opérations de caisse. Les limites exactes et options peuvent varier selon les réglages et les règles internes.\n\n<\/p>\n<br>\n<p>\nLes distributeurs ou solutions de retrait se situent le plus souvent dans le complexe ou à proximité immédiate pour éviter de couper la soirée. Pour un change de devises au sens strict, il est généralement plus confortable de le faire en amont via une banque, puis de gérer l’appoint via retrait et caisse. Avec une carte étrangère, il faut anticiper les frais de conversion et les commissions de la banque émettrice. L’établissement privilégie des procédures de caisse traçables et sécurisées.\n\n<\/p>\n<br>\n<p>\nLe paiement des gains en casino terrestre se fait le plus souvent à la caisse via une procédure standard incluant l’identification. Les montants modestes sont généralement traités rapidement, tandis que les gains plus élevés peuvent impliquer des contrôles complémentaires et un choix de modalité (espèces dans les limites prévues ou, selon options, virement). La possibilité de tout percevoir immédiatement dépend de plafonds, d’exigences de sûreté et de l’heure. Mieux vaut prévoir du temps si l’on souhaite clôturer la soirée à la caisse.\n\n<\/p>\n<br>\n<p>\nLa fiscalité des gains peut dépendre du profil du joueur et des règles applicables, ce qui en fait un sujet individuel. Il est prudent de conserver toute preuve liée au paiement, surtout pour des montants importants. En cas de doute, le mieux est de demander un avis compétent, car le casino ne remplace pas un conseil fiscal. Cette prudence protège votre sérénité comme vos décisions financières.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite du Casino Barrière Dinard: accès, tenue, interdits et accès\n<\/h3>\n\n<p>\nLa visite d’un casino terrestre repose sur un principe simple mais strict: l’accès est réservé aux majeurs avec une pièce d’identité valide. Un contrôle à l’entrée est généralement effectué pour respecter les exigences de sécurité et de jeu responsable. À l’intérieur, une attitude calme est attendue, surtout en soirée, afin de préserver le confort de tous. Les photos et vidéos dans les zones de jeu sont souvent limitées pour protéger la confidentialité. Le bar et le restaurant font partie de l’expérience, mais un état d’ébriété manifeste peut entraîner un refus de service. Il est important de suivre les indications du personnel et de ne pas manipuler les équipements sans nécessité. Pour une visite agréable, une tenue soignée correspond mieux à l’esprit de la sortie. Les tenues de plage ou trop décontractées jurent généralement avec l’ambiance et sont à éviter. Lors des dates très fréquentées, venir un peu plus tôt permet de passer les formalités plus sereinement. Pour la logistique, l’accès se fait facilement à pied via la promenade, en taxi ou en voiture en tenant compte du stationnement. Quand on ne connaît pas la ville, le repère le plus simple reste la zone de plage et le front de mer: le casino est situé à un emplacement très visible.\n\n<\/p>\n<br>\n<ul>\n            <li>• \nTenue conseillée: style smart casual; chaussures fermées recommandées, éviter tenue de plage et look trop sportif.\n\n<\/li>\n            <li>• \nConditions d’accès: 18+; pièce d’identité obligatoire; contrôle possible; respect du règlement intérieur.\n\n<\/li>\n            <li>• \nInterdits principaux: mineurs; troubles à l’ordre; comportement agressif; gêne envers les joueurs; prises de vue non autorisées; substances interdites.\n\n<\/li>\n            <li>• \nStationnement et arrivée: à pied par la promenade; taxi\/VTC; voiture avec parkings publics à proximité; en haute saison prévoir du temps.\n\n<\/li>\n\t    <li>• \nAccès le plus simple: repère plage de l’Écluse et front de mer; signalétique généralement claire, personnel disponible pour guider.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité: avantages, niveaux et bonus\n<\/h3>\n\n<p>\nLe programme de fidélité du Casino Barrière Dinard s’adresse à celles et ceux qui reviennent et souhaitent être reconnus. Il fonctionne généralement sur une logique d’accumulation: le jeu et certaines dépenses se traduisent en points ou en statut. Ce n’est pas uniquement une affaire de bonus, mais aussi de confort et de service. Le membre reçoit plus souvent des offres ciblées, des invitations et des avantages réservés aux inscrits. La dimension «club» est centrale: l’expérience devient plus fluide et plus personnalisée. Beaucoup apprécient que les bénéfices touchent aussi la restauration et les animations. Les niveaux encouragent à planifier ses visites de manière responsable plutôt qu’à jouer sans limites. Plus le niveau monte, plus les avantages deviennent visibles: priorité, offres renforcées, événements exclusifs. Les conditions peuvent évoluer selon les saisons, ce qui garde la programmation attractive. Un accueil sous forme de bonus de bienvenue et des opérations récurrentes renforcent l’intérêt. À retenir: inscription, cumul, niveaux, privilèges, invitations.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n<\/h4>\n\n <ul>\n            <li>• \nÂge: 18+ et pièce d’identité valide.\n\n<\/li>\n            <li>• \nCréation: à l’accueil\/réception; formulaire et acceptation du règlement.\n\n<\/li>\n            <li>• \nActivation: généralement immédiate.\n\n<\/li>\n            <li>• \nCoût: souvent gratuit (sinon annoncé lors de l’inscription).\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et obtention\n<\/h4>\n\n <ul>\n            <li>• \nClassic: niveau de départ dès l’inscription; accès aux offres de base et au cumul.\n\n<\/li>\n            <li>• \nSilver (≈ dès 1 000 points\/mois): plus d’offres personnalisées, invitations prioritaires.\n\n<\/li>\n            <li>• \nGold (≈ dès 3 000 points\/mois): bonus renforcés, événements spéciaux, cumul accéléré.\n\n<\/li>\n            <li>• \nPlatinum (≈ dès 7 000 points\/mois): privilèges maximum, conditions personnalisées, meilleures invitations.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nBonus de bienvenue: par exemple 10 € en crédits de jeu à l’activation.\n\n<\/li>\n            <li>• \nJours x2 points: par exemple 1–2 fois\/mois doublement du cumul.\n\n<\/li>\n            <li>• \nCoupons bar\/restaurant: par exemple 5–15 € sur l’addition à certaines dates.\n\n<\/li>\n            <li>• \nCadeau anniversaire: par exemple 10–20 € en bon ou crédit.\n\n<\/li>\n\t    <li>• \nInvitations événements: accès à des soirées privées, inscription prioritaire.\n\n<\/li>\n\t    <li>• \nCumul majoré: par exemple +10% (Silver), +20% (Gold), +30% (Platinum).\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au  Casino Barrière Dinard",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus, promotions et offres spéciales: jeux, loisirs et saisons\n<\/h3>\n\n<p>\nEn dehors de la fidélité, le Casino Barrière Dinard met généralement en avant des promotions qui dynamisent la visite. Les opérations se construisent souvent autour des machines à jackpots, de semaines thématiques et de périodes festives. Comme ces offres peuvent être courtes et calendaires, elles créent un effet de nouveauté à chaque passage. On rencontre régulièrement des formats de type «happy hours» sur la zone de jeu ou des tirages au sort parmi les participants de la soirée. Une autre dimension relie jeu et divertissement: musique, soirées à thème, rendez‑vous saisonniers. Certains dispositifs encouragent une expérience combinée, par exemple jouer et recevoir un avantage restauration. Des mécaniques «instant gagnant» existent parfois, déclenchées par une condition simple sur une machine ou un poste électronique. La clarté des conditions est essentielle, tout comme la rapidité d’attribution. Ces promotions plaisent à ceux qui reviennent sans forcément viser un statut. Elles s’inscrivent toujours dans une logique de jeu responsable et de budget maîtrisé. Pour résumer: jackpots, tirages, happy hours, soirées saisonnières, avantages bar\/restaurant.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromotions et offres\n<\/h4>\n\n <ul>\n            <li>• \nTirage au sort du soir: par exemple une dotation 1 000–5 000 € via coupon\/inscription.\n\n<\/li>\n            <li>• \nÉvénement jackpots machines: par exemple «jackpot de la semaine» jusqu’à 30 000 € sur une sélection.\n<\/li>\n            <li>• \nHappy Hours zone machines: par exemple +10–20% de crédits de jeu sur recharge à certains créneaux.\n\n<\/li>\n            <li>• \nCombo «jeu + restaurant»: par exemple bon 10 € sur dîner à partir d’un seuil d’activité.\n\n<\/li>\n\t    <li>• \nTemps forts saisonniers: par exemple cadeaux 5–50 € en bons bar ou jeu lors de dates festives.\n\n<\/li>\n\t    <li>• \nTournoi sur jeux électroniques: par exemple prix 300–2 000 € selon classement de la soirée.\n\n<\/li>\n\t    <li>• \nBonus «instant win»: par exemple gain aléatoire 5–100 € selon conditions de l’opération.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino Barrière Dinard: les incontournables\n<\/h3>\n\n<p>\nLa popularité des jeux au Casino Barrière Dinard se construit souvent autour de trois usages: machines rapides, tables classiques et versions électroniques au rythme soutenu. Les débutants commencent fréquemment par les machines, car les règles sont intuitives et l’accès immédiat. Les habitués alternent volontiers: sessions sur machines, puis roulette ou blackjack pour varier l’intensité. Les tables électroniques gardent l’esprit casino tout en accélérant le cycle de mise. La roulette attire par son côté rituel et ses mises simples, tandis que le blackjack plaît par une sensation de décision plus présente. En soirée, les jeux «conviviaux» sont recherchés, car on peut jouer en groupe et commenter l’action. Beaucoup ne viennent pas pour un seul jeu, mais pour la diversité et le changement de rythme. Sur les machines, les visiteurs privilégient souvent les vidéo‑slots avec bonus et jackpots progressifs. Sur les tables, on apprécie le côté authentique et la présence du croupier. Sur l’électronique, on aime la lisibilité et la rapidité. Pour une première visite, l’idéal est de commencer avec des mises modestes et de trouver son tempo. Ensuite, on compose son mix entre machines, roulette et blackjack.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nMachines à sous: parties rapides, thèmes variés, bonus et mécaniques de jackpot.\n\n<\/li>\n            <li>• \nVidéo‑slots à bonus: mini‑jeux, tours gratuits, sensations amplifiées.\n\n<\/li>\n            <li>• \nRoulette anglaise: grand classique, nombreux types de mises, accessible aux débutants.\n\n<\/li>\n            <li>• \nRoulette électronique: même logique, tempo plus rapide, interface pratique.\n\n<\/li>\n\t    <li>• \nBlackjack: carte classique, objectif simple, interaction «live» avec croupier.\n\n<\/li>\n\t    <li>• \nBlackjack électronique: rythme soutenu, sans attente de table.\n\n\n<\/li>\n        <\/ul><br>\n       \n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino Barrière Dinard: minimums et maximums par jeu\n<\/h3>\n\n<p>\nDans un casino terrestre, les limites varient selon la table, l’horaire et l’affluence, il faut donc les lire comme des ordres de grandeur. Pour une première visite, démarrer au minimum aide à prendre le rythme. Pour les tables, demander les limites au personnel est courant et parfaitement normal.\n<\/p>\n<br>\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#B78E2E; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimum<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximum<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€10 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Vidéo‑slots à jackpot<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.05<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€20<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.20 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€50<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (table live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> €200<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€0.50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€100<\/td>\n                <\/tr>\n      <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (table live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">€300<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAnimations, shows et esprit nocturne: que faire au‑delà du jeu\n<\/h3>\n\n<p>\nLe Casino Barrière Dinard ne se limite pas aux machines et aux tables: c’est aussi un lieu de sortie avec programmation. Au fil de l’année, l’accent est souvent mis sur des rendez‑vous d’ambiance: soirées thématiques, moments musicaux, événements spéciaux et scénarios festifs. Cela plaît aux visiteurs qui aiment venir pour une occasion, pas uniquement pour jouer. Le divertissement crée un rythme naturel: un verre, un set musical, quelques parties, puis retour à l’espace convivial.\n\n<\/p>\n<br>\n\n\n<p>\nLes animations régulières se construisent fréquemment autour de musique live, de DJ sets et de soirées à l’esprit balnéaire. Les jours de forte affluence, l’endroit peut prendre une couleur plus «club»: musique plus présente, bar plus animé, ambiance plus sociale. Ce n’est pas forcément un club indépendant au sens strict, mais un format nocturne où l’on peut danser, échanger et prolonger la soirée tard. Pour les groupes, les soirées à thème et les temps forts saisonniers offrent un scénario simple et efficace.\n\n<\/p>\n<br>\n<p>\nOn retrouve aussi des formats faciles d’accès: retransmissions sportives en espace bar, rendez‑vous musicaux le week‑end, soirées avec animation et interactions, ainsi que des nuits festives en fin d’année. Ces activités se marient bien avec le jeu, car elles permettent de faire des pauses sans sortir de l’univers. Le casino devient ainsi un lieu choisi pour l’ambiance, même quand on joue peu.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nToutes les activités\n<\/h4>\n\n <ul>\n            <li>• \nMusique live: concerts pour une ambiance «soirée au bord de l’eau».\n\n<\/li>\n            <li>• \nDJ sets & soirées club: format dansant, bar très animé.\n\n<\/li>\n            <li>• \nSoirées thématiques: dress‑themes, saisons, nuits festives.\n\n<\/li>\n            <li>• \nÉvénements calendaires: programmes saisonniers, surprises du soir.\n\n<\/li>\n\t    <li>• \nSport au bar: regarder un match dans une ambiance conviviale.\n\n<\/li>\n\t    <li>• \nPrivatisations: événements d’entreprise, anniversaires, soirées privées.\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRestaurants, bars et détente: une soirée confortable\n<\/h3>\n\n<p>\nLa gastronomie au Casino Barrière Dinard fait partie intégrante de l’expérience, car elle transforme le jeu en vraie sortie. Le restaurant met généralement l’accent sur la saisonnalité et une cuisine de brasserie confortable, avec une ambiance où l’on aime rester. La dimension panoramique renforce l’effet: le repas devient un moment de détente, pas seulement une pause. Pour un couple ou un groupe, l’alternance entre jeu et table se fait naturellement.\n\n<\/p>\n<br>\n\n\n<p>\nLe bar joue le rôle de point d’ancrage pour ceux qui aiment le format «cocktail + ambiance». On peut y débuter la soirée, faire une pause entre deux sessions ou terminer sur un rythme plus calme. C’est souvent là que l’on ressent le mieux l’énergie du lieu: musique, échanges, esprit festif. Le bar convient aussi à ceux qui veulent profiter de l’atmosphère sans forcément jouer beaucoup.\n\n<\/p>\n<br>\n<p>\nPour prolonger la sortie, l’option hôtel à proximité est idéale afin d’éviter la contrainte du retour. Le duo «casino + hôtel» transforme la visite en mini‑escapade: promenade, dîner, jeu, ambiance nocturne, puis fin de journée sans stress. C’est particulièrement apprécié le week‑end, quand on recherche un vrai changement de décor en format court.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les lieux de détente\n<\/h4>\n\n <ul>\n            <li>• \nLe Grand Bain (brasserie): décor contemporain, cuisine de saison, esprit vue mer.\n\n<\/li>\n            <li>• \nBar du casino: cocktails, petites assiettes, pauses confortables entre les jeux.\n\n<\/li>\n            <li>• \nConcept brasserie «L’Appel du Large»: logique bord de mer, cuisine conviviale et généreuse.\n\n<\/li>\n            <li>• \nHôtel à proximité (esprit Barrière): hébergement pour profiter d’une soirée sans se presser.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Y a‑t‑il une exception d’âge avec un parent?",
+                    "answer": "Non, l’accès est interdit aux mineurs, même accompagnés. La règle est strictement appliquée.\n"
+                },
+                {
+                    "title": "Que faire si j’ai oublié ma pièce d’identité?",
+                    "answer": "Sans pièce valide, l’accès peut être refusé. Le mieux est de revenir avec le document requis.\n"
+                },
+                {
+                    "title": "Y a‑t‑il des plafonds pour retrait ou paiement carte?",
+                    "answer": "Oui, selon la banque et les procédures internes. Pour un budget important, vérifiez vos plafonds et disponibilités.\n"
+                },
+                {
+                    "title": "Y a‑t‑il une limite de temps sur place?",
+                    "answer": "En général, vous pouvez rester pendant les heures d’ouverture en respectant le règlement. En cas de trouble, l’équipe peut demander de quitter les lieux.\n"
+                },
+                {
+                    "title": "Y a‑t‑il des options pour ceux qui ne jouent pas?",
+                    "answer": "Oui, le bar, la brasserie et la programmation peuvent suffire à eux seuls. C’est une vraie sortie même sans jeu.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1244",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Dinard"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
